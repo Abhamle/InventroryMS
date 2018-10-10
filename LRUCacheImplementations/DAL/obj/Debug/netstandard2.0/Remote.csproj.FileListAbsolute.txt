@@ -1,0 +1,8 @@
+C:\Users\v-abmeng\source\repos\desiet.dsa\LRUCacheImplementations\DAL\bin\Debug\netstandard2.0\Remote.deps.json
+C:\Users\v-abmeng\source\repos\desiet.dsa\LRUCacheImplementations\DAL\bin\Debug\netstandard2.0\Remote.dll
+C:\Users\v-abmeng\source\repos\desiet.dsa\LRUCacheImplementations\DAL\bin\Debug\netstandard2.0\Remote.pdb
+C:\Users\v-abmeng\source\repos\desiet.dsa\LRUCacheImplementations\DAL\obj\Debug\netstandard2.0\Remote.csproj.CoreCompileInputs.cache
+C:\Users\v-abmeng\source\repos\desiet.dsa\LRUCacheImplementations\DAL\obj\Debug\netstandard2.0\Remote.AssemblyInfoInputs.cache
+C:\Users\v-abmeng\source\repos\desiet.dsa\LRUCacheImplementations\DAL\obj\Debug\netstandard2.0\Remote.AssemblyInfo.cs
+C:\Users\v-abmeng\source\repos\desiet.dsa\LRUCacheImplementations\DAL\obj\Debug\netstandard2.0\Remote.dll
+C:\Users\v-abmeng\source\repos\desiet.dsa\LRUCacheImplementations\DAL\obj\Debug\netstandard2.0\Remote.pdb
